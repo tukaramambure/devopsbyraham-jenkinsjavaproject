@@ -21,6 +21,10 @@
 
         <!-- Encoding -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+             
+         <!-- SonarQube -->
+        <sonar.projectKey>NETFLIX</sonar.projectKey>
+        <sonar.projectName>NETFLIX</sonar.projectName>
     </properties>
 
     <dependencies>
